@@ -10,3 +10,4 @@ $user = [
 
 #mengakses array
 echo $user ['nama'];
+//sausan rafila
